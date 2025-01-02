@@ -36,13 +36,13 @@ Follow the instructions below to set up and run the script.
    - Replace it with: `return true;`.
    - Save the file and reload the page.
 
-6. **Run the Auto-Liker Script**
+6. **Run the Auto Liker Script**
    - Go to the `Console` tab in Developer Tools.
    - Copy and paste the contents of `bumble.js` into the console.
    - Press `Enter` to run the script.
 
-7. **Stop the Script**
-   - Reload the Bumble page to stop the auto-liker.
+7. **Stop or Restart the Script**
+   - Press Stop or Restart button.
 
 ---
 
