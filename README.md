@@ -1,4 +1,4 @@
-# Bumble Auto
+# Swipe Your Entire Country While Sleeping
 ## Overview
 Added and modified a script for a friend while testing something.
 Automates the likes on bumble.
